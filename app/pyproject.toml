@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "text-classification"
+version = "0.1.0"
+description = "Text classification with FastAPI and MySQL"
+authors = ["Seongyeonkim <ksy974498@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.70.0"
+uvicorn = "^0.15.0"
+transformers = "^4.11.3"
+pydantic = "^1.8.2"
+Jinja2 = "^3.0.1"
+#sqlalchemy = "^1.4.25"
+#pymysql = "^1.0.2"
+#cryptography = "^3.4.7"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

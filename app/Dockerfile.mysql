@@ -1,0 +1,8 @@
+FROM mysql:8.2.0
+
+ENV MYSQL_DATABASE=text_classification
+ENV MYSQL_USER=user
+ENV MYSQL_PASSWORD=password
+ENV MYSQL_ROOT_PASSWORD=root_password
+
+EXPOSE 3306
