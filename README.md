@@ -13,6 +13,8 @@
 - UI 제작
 
 ### 전체 구조
+- (개선 예정)
+![Screenshot 2024-08-01 at 5 57 29 PM](https://github.com/user-attachments/assets/063676e9-17b8-47eb-b579-5fadc3ff4f6f)
 
 
 
